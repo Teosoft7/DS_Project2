@@ -15,6 +15,6 @@ Our company name is Datakick Inc., and we provide performance stats for over 250
 **Hypotheses Process:**  
 Through 1-sample and 2-sample testing, we formed a null and alternative hypothesis to answer our focused questions. Initially, we converted our sqlite dataset into postgresql, and then converted each table into .csv files (Country, League, Match, Player, Player Attributes, Team, Team Attributes). Next, we pulled our relevant values in SQL and created a dataframe for each of the tables in our code. With detailed hypothesis testing, inclusive of an alpha at 5% (where we either accept or reject a null hypothesis), our results are as follows:
 
-- There *is no* statistical difference when a team wins in front of a home crowd or wins at away games
+- There *is no* statistical difference when a team wins in front of a home crowd or at away games
 - There *is no* statistical difference when a team wins based on the height of teams players
 - There *is* a statistical difference when a team loses based on the teams' defense pressure
