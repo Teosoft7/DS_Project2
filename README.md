@@ -9,7 +9,7 @@ Our company name is Datakick Inc., and we provide performance stats for over 250
 
 **Focused Questions:**
   1. Is there a statistical difference in the odds of winning a game when a team is playing in front of their home crowd?
-  2. Is there a statistical difference in the odds of winning a game when the height of a team is taller than the other team?
+  2. Is there a statistical difference in the odds of winning a game when the players height of a team is taller than the other team?
   3. Is there a statistical difference in the odds of losing a game when the defense pressure of a team is higher than the other team?
 
 **Hypotheses Process:**  
