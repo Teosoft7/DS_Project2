@@ -5,7 +5,7 @@
 **Instructors:** Miles Erickson & Greg Damico  
 **Slide Deck Presentation Link:** 
 
-Our company name is datakick.inc, and we provide performance stats for over 250 soccer teams to other companies on whether or not they can contribute to a win or loss. Our data will also provide a good indicator on future predictions regarding league performance and betting odds.
+Our company name is datakick.inc, and we provide performance stats for over 250 European League soccer teams to other companies on whether or not they can contribute to a win or loss. Our data will also provide a good indicator on future predictions regarding league performance and betting odds.
 
 **Focused Questions:**
   1. Is there a statistical difference in the odds of winning a game when a team is playing in front of their home crowd?
