@@ -23,4 +23,4 @@ Through sample T-testing, null and alternative hypotheses were written to suppor
 - There *is* a statistical difference when a team wins in front of a home crowd
 - There is *no* statistical difference when a team wins based on the height of teams players
 - There *is* a statistical difference when a team loses based on the teams' defense pressure
-- There is *no* statistical difference when a team wins based on the teams' offensive attributes(passing & shooting)
+- There is *no* statistical difference when a team wins based on the teams' offensive attributes(passing & shooting chance)
