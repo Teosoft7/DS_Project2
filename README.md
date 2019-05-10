@@ -19,7 +19,7 @@ The data was obtained from a large SQlite file found on kaggle.com. We had then 
 
 ### Hypothesis Process: 
 Through sample T-testing, null and alternative hypotheses were written to support our critical questions. Using the new *football_db* database in PostgreSQL, several queries were made to form relevant dataframes for our calculations. For each hypothesis, a sample size for the number of games was set against our variable. Next, we calculated the mean and standard deviation, and compared the variances. A t-stat was ultimately generated, which gave us a p-value to measure our data. With of an alpha at 5% (where we either accept or reject a null hypothesis), our results are as follows:
-- There is *no* statistical difference when a team wins in front of a home crowd or at away games
+- There is *no* statistical difference when a team wins in front of a home crowd
 - There is *no* statistical difference when a team wins based on the height of teams players
 - There *is* a statistical difference when a team loses based on the teams' defense pressure
-- There *is* a statistical difference when a team wins based on the teams' offensive attributes(passing & shooting)
+- There is *no* statistical difference when a team wins based on the teams' offensive attributes(passing & shooting)
