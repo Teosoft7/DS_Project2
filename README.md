@@ -12,7 +12,7 @@ Is there a statistical difference in the odds of...
 1. Winning a game when a team is playing in front of their home crowd?
 2. Winning a game when the players’ height of the home team is taller?
 3. Losing a game when the defensive pressure of a team is lower than the other team?
-4. Winning a game when a team has higher offensive attributes than the other team?
+4. Winning a game when a team has higher offensive attributes(passing & shooting) than the other team?
 
 ### Data Migration:   
 The data was obtained from a large SQlite file found on kaggle.com. We had then extracted each table in the SQlite file into 7 different .csv files, and imported them into a newly created database called “football_db” in PostgreSQL. This included: Country, League, Match, Player, Player Attributes, Team, and Team Attributes.
@@ -22,4 +22,4 @@ Through sample T-testing, null and alternative hypotheses were written to suppor
 - There is *no* statistical difference when a team wins in front of a home crowd or at away games
 - There is *no* statistical difference when a team wins based on the height of teams players
 - There *is* a statistical difference when a team loses based on the teams' defense pressure
-
+- There *is* a statistical difference when a team wins based on the teams' offensive attributes(passing & shooting)
