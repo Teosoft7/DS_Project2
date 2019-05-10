@@ -14,7 +14,7 @@ Is there a statistical difference in the odds of...
 3. Losing a game when the defensive pressure of a team is lower than the other team?
 4. Winning a game when a team has higher offensive attributes than the other team?
 
-**Data Migration:**
+**Data Migration:**   
 The data was obtained from a large SQlite file found on kaggle.com. We had then extracted each table in the SQlite file into 7 different .csv files, and imported them into a newly created database called “football_db” in PostgreSQL. This included: Country, League, Match, Player, Player Attributes, Team, and Team Attributes.
 Hypothesis Process:
 Through sample T-testing, null and alternative hypotheses were written to support our critical questions. Using the new *football_db* database in PostgreSQL, several queries were made to form relevant dataframes for our calculations. For each hypothesis, a sample size for the number of games was set against our variable. Next, we calculated the mean and standard deviation, and compared the variances. A t-stat was ultimately generated, which gave us a p-value to measure our data. With of an alpha at 5% (where we either accept or reject a null hypothesis), our results are as follows:
