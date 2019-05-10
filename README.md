@@ -5,7 +5,7 @@
 **Instructors:** Miles Erickson & Greg Damico  
 **Slide Deck Presentation:** 
 
-Our company name is Datakick Inc., and we provide performance stats for over 250 European League soccer teams to other companies on whether or not certain factors can contribute to a win or loss. Our hypothesis analyses will also provide a good indicator on future predictions regarding league performance and betting odds.
+Our company name is Datakick Inc., and we provide performance stats for over 250 European League soccer teams to other companies on whether or not certain factors can contribute to a win or loss. Our hypothesis analyses will also provide a good indicator on future predictions regarding league performance and increased accuracy on betting odds.
 
 ### Focused Questions:  
 Is there a statistical difference in the odds of...
